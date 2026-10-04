@@ -79,5 +79,6 @@ Play the latest build directly in your browser or download it from Itch.io:
 
 Developed with Unity C#.
 
+
 ---
 *Survival is not guaranteed. Good luck.*
